@@ -433,6 +433,11 @@ User Input
 
 ---
 
+## Project Screenshots
+![](https://github.com/aairah25bai10172/Hospital-patient-management/blob/main/Project-Screenshots/1.jpg)
+![](https://github.com/aairah25bai10172/Hospital-patient-management/blob/main/Project-Screenshots/3.jpg)
+![](https://github.com/aairah25bai10172/Hospital-patient-management/blob/main/Project-Screenshots/2.jpg)
+
 ## Testing and Validation
 
 ### Test Case 1: Add Single Patient
